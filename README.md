@@ -30,7 +30,7 @@ and linker.
 
 A binary packages of this driver can be found here:
 
-ftp://ftp.hentenaar.com/~tah/solaris/2.5.1/i386/idle-1.0.pkg
+[in my sol25pkg repository](https://github.com/thentenaar/sol25pkg)
 
 Installation
 ------------
